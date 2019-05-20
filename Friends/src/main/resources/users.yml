@@ -1,0 +1,21 @@
+d61c67b0-b7b0-4881-9539-1d4e32c41864:
+  username: MiyamotoMakoto
+  gift-inbox:
+    Friend-Gem:
+      sender: Efnilite
+      send-date: "May 19th, 2019"
+      item-type: DIAMOND
+      amount: 1
+      itemMeta:
+        display-name: "&dGem of Friendship :)"
+        display-lore:
+          - "&7You are good fren lol"
+        enchants:
+          DURABILITY: 10
+        itemFlags:
+          - HIDE_ENCHANTS
+        unbreakable: true
+        attributes: []
+  friends-by-uuid:
+    894bedf6-d434-431b-b22a-ed81d64d7d93:
+      username: Efnilite
