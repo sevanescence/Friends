@@ -11,4 +11,3 @@ A plugin to keep in touch with friends! :D
 ###### To-Do List
 
 - [ ] Finish current classes
-- [ ] Add MutualFriends class under commands
