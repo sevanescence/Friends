@@ -1,0 +1,4 @@
+name: Friends
+version: 1.0
+main: com.makotomiyamoto.friends.Friends
+description: "A plugin to keep in touch with friends! :D"
