@@ -10,5 +10,6 @@ A plugin to keep in touch with friends! :D
 
 ###### To-Do List
 
+- [ ] Replace Friend object with User object
 - [ ] Finish current classes
 - [ ] optional feature to save users.yml file to sql database
